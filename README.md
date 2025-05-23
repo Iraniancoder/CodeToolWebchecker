@@ -8,4 +8,7 @@ It is a Python tool for examining and analyzing websites that uses various libra
 
 💀Firewall detection
 
-# After execution, the file will be automatically saved for review
+After execution, the file will be automatically saved for review
+
+# How does it work?
+python CodeToolWebchecker.py
