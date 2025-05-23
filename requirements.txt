@@ -3,4 +3,4 @@ beautifulsoup4==4.12.2
 urllib3==2.0.7
 colorama==0.4.6
 pyfiglet==0.8.post1
-pys0cks==1.7.1
+pysocks==1.7.1
