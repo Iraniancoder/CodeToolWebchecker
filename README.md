@@ -1,4 +1,5 @@
 # 💀CodeToolWebchecker
+It is a Python tool for examining and analyzing websites that uses various libraries to collect information, scan, and display results.
 # 💀Features
 
 CMS detection
